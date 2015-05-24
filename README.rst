@@ -6,7 +6,7 @@ are collected and tidyed from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
-`another awesome <https://github.com/sindresorhus/awesome>`_ list.
+`sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
 
 Agriculture
@@ -21,6 +21,7 @@ Biology
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
+* `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `ICOS PSP Benchmark <http://www.infobiotic.net/PSPbenchmarks/>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data (FTP) <http://bit.do/VVW6>`_
@@ -44,6 +45,8 @@ Climate/Weather
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
 * `NOAA Climate Datasets <http://ncdc.noaa.gov/data-access/quick-links>`_
 * `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
+* `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
+* `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
 * `WU Historical Weather Worldwide <http://www.wunderground.com/history/index.html>`_
 
 
@@ -137,6 +140,11 @@ Finance
 * `St Louis Federal <http://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
 
+Geology
+-------
+* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
+* `Smithsonian Institution Global Volcano and Eruption Database <http://www.volcano.si.edu>`_
+
 
 GeoSpace/GIS
 ------------
@@ -155,14 +163,17 @@ GeoSpace/GIS
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
+* `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 
 
 Government
 ----------
 
+* `Austin, TX, US <https://data.austintexas.gov/>`_
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
+* `Austria (data.gv.at) <https://www.data.gv.at/>`_
 * `Brazil <http://dados.gov.br/dataset>`_
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
@@ -180,17 +191,24 @@ Government
 * `Indian Government Data <http://www.data.gov.in>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
+* `Mexico <http://catalogo.datos.gob.mx/dataset>`_
 * `Netherlands <https://data.overheid.nl/>`_
 * `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
 * `NYC betanyc <http://betanyc.us/>`_
 * `NYC Open Data <http://nycplatform.socrata.com/>`_
 * `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
+* `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <http://www.data.gov.in/>`_
+* `Romania <http://data.gov.ro/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Seattle <https://data.seattle.gov/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
+* `Switzerland <http://www.opendata.admin.ch/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
+* `Texas Open Data <https://data.texas.gov/>`_
+* `Puerto Rico Government <https://data.pr.gov//>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
+* `Uruguay <https://catalogodatos.gub.uy/>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
 * `U.S. Census Bureau <http://www.census.gov/data.html>`_
@@ -200,7 +218,7 @@ Government
 * `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
 * `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
-* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/2011-census-open-atlas-project/>`_
+* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2013/02/05/2011-census-open-atlas-project/>`_
 * `United Nations <http://data.un.org/>`_
 
 
@@ -226,6 +244,7 @@ Image Processing
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
+* `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
 
 
 Machine Learning
@@ -255,6 +274,7 @@ Museums
 * `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
 * `Tate Collection metadata <https://github.com/tategallery/collection>`_
 * `The Getty vocabularies <http://vocab.getty.edu>`_
+* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 
 
 Natural Language
@@ -282,6 +302,12 @@ Physics
 
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
+* `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
+
+Psychology/Cognition
+--------------
+
+* `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
 
 
 Public Domains
@@ -296,6 +322,7 @@ Public Domains
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
+* `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Numbray <http://numbrary.com/>`_
 * `Reddit Datasets <http://www.reddit.com/r/datasets>`_
 * `RevolutionAnalytics Collection <http://www.revolutionanalytics.com/subscriptions/datasets/>`_
@@ -328,6 +355,7 @@ Social Sciences
 
 * `Ancestry.com Forum Dataset over 10 years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
 * `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
+* `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/917205>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
 * `Foursquare Social Network in 2010, 2011 <http://www.public.asu.edu/~hgao16/dataset.html>`_
@@ -340,7 +368,7 @@ Social Sciences
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
 * `SourceForge.net Research Data <http://www.nd.edu/~oss/Data/data.html>`_
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
-* `Titanic Survival Data Set <http://bit.do/dataset-titanic-csv-zip>`_
+* `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
@@ -357,7 +385,7 @@ Sports
 ------
 
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
-* `Cricsheet Matches (baseball) <http://cricsheet.org/>`_
+* `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
 * `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
 * `Football/Soccer resouces (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
 * `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
@@ -370,6 +398,7 @@ Time Series
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
 * `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
+* `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
 
 
 Transportation
